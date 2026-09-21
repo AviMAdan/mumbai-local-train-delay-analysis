@@ -5,7 +5,8 @@ An end-to-end data analytics project examining operational delays across Mumbai'
 ---
 
 ## 📊 Live Interactive Dashboard
-👉 **[View Live Interactive Dashboard on Tableau Public]([https://public.tableau.com/app/profile/avdhut.madan/viz/MumbaiLocalTrainPerformanceTracker/Dashboard1?publish=yes])**
+👉 **[View Live Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/avdhut.madan/viz/MumbaiLocalTrainPerformanceTracker/Dashboard1?publish=yes)**
+
 
 ![Dashboard Preview](./dashboard_preview.PNG)
 
@@ -29,5 +30,5 @@ An end-to-end data analytics project examining operational delays across Mumbai'
 ## 📂 Repository Structure
 ├── mumbai_train_delays_cleaned.csv   # Processed dataset
 ├── train_analysis.ipynb              # Pandas feature engineering notebook
-├── dashboard_preview.png             # Preview screenshot of Tableau dashboard
+├── dashboard_preview.PNG             # Preview screenshot of Tableau dashboard
 └── README.md                         # Project documentation
