@@ -5,9 +5,9 @@ An end-to-end data analytics project examining operational delays across Mumbai'
 ---
 
 ## 📊 Live Interactive Dashboard
-👉 **[View Live Interactive Dashboard on Tableau Public]([YOUR_TABLEAU_PUBLIC_URL_HERE](https://public.tableau.com/app/profile/avdhut.madan/viz/MumbaiLocalTrainPerformanceTracker/Dashboard1?publish=yes))**
+👉 **[View Live Interactive Dashboard on Tableau Public]([https://public.tableau.com/app/profile/avdhut.madan/viz/MumbaiLocalTrainPerformanceTracker/Dashboard1?publish=yes])**
 
-![Dashboard Preview](./dashboard_preview.png)
+![Dashboard Preview](./dashboard_preview.PNG)
 
 ---
 
